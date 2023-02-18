@@ -1,0 +1,21 @@
+body {
+	font-family: monaco;
+	color: #7C3535;
+	background-color: #D9FCFF;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.room_description {border-width:thin; border-bottom-style:solid; border-color:#0C0C0C; padding-bottom:50px; text-align:center; }
+
+.room_image {max-width:350px; width:100%; display: block; margin-left: auto; margin-right: auto; }
+
+.cutscene {color:red; font-style:italic; text-align:center; font-size:15px}
+
+img {width:100%; height:auto; }
+
+.action_form { float:left; }
+
+.room_inventory, .player_inventory, .actions  { margin-right:1%; padding-left:1%; padding-right:1%; padding-bottom:20px; border-width:thin; border-right-style:solid; border-bottom-style:solid; border-color:#0C0C0C; width:29%; float:left; }
+
+.footer { padding-top:50px; clear:both; }
